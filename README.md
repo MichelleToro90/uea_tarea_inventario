@@ -1,0 +1,1 @@
+# uea_tarea_inventario
